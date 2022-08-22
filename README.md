@@ -1,4 +1,4 @@
-<strong>SpaceIinvaders</strong>
+<strong>Space Invaders</strong>
 
 A vanilla JavaScript game with HTML and CSS
 
